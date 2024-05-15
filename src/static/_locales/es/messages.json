@@ -1,0 +1,23 @@
+{
+  "correctText": {
+    "message": "Texto correcto"
+  },
+  "rephraseText": {
+    "message": "Reformular texto"
+  },
+  "settings": {
+    "message": "Ajustes"
+  },
+  "emojiSimple": {
+    "message": "Texto correcto con emoji"
+  },
+  "emojiHard": {
+    "message": "Traducir a emoji"
+  },
+  "notificationApiKeyTitle": {
+    "message": "Error: Falta la clave API"
+  },
+  "notificationApiKeyMessage": {
+    "message": "Por favor, establezca una clave API en los ajustes."
+  }
+}

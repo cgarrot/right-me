@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "Right me",
+  "description": "Select and right click to correct the text",
+  "version": "1.0.0",
+  "action": {
+    "default_title": "Right me",
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+    "tabs",
+    "storage",
+    "contextMenus",
+    "activeTab",
+    "scripting",
+    "notifications",
+    "background"
+  ],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "options_page": "options.html",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["contentScript.js"]
+    }
+  ],
+  "default_locale": "en"
+}

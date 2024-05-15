@@ -1,0 +1,49 @@
+{
+  "name": "Corrija-me",
+  "yes": "Sim",
+  "no": "Não",
+  "options": {
+    "settings": {
+      "title": "Deseja as opções no menu do botão direito?"
+    },
+    "ai": {
+      "platform": "Qual é a sua plataforma de IA?",
+      "model": "Qual é o seu modelo?",
+      "selectPlatform": "Selecione uma plataforma",
+      "selectModel": "Selecione um modelo",
+      "apiKey": "Qual é a sua chave API?",
+      "getApiKey": "obter uma chave API",
+      "inputApiKey": "CHAVE API NECESSÁRIA, CLIQUE em obter uma chave API",
+      "seeMore": "Ver mais",
+      "platforms": {
+        "google": "Google",
+        "openai": "OpenAI"
+      }
+    },
+    "language": {
+      "firstLanguage": "Idioma Principal",
+      "secondLanguage": "Segundo Idioma",
+      "selectLanguage": "Selecione um idioma",
+      "list": {
+        "french": "Francês",
+        "english": "Inglês",
+        "spanish": "Espanhol",
+        "german": "Alemão",
+        "italian": "Italiano",
+        "portuguese": "Português",
+        "russian": "Russo",
+        "chinese": "Chinês"
+      }
+    },
+    "abrv": {
+      "yes": "Abreviações",
+      "no": "Palavras completas",
+      "idk": "Não sei",
+      "title": "Você prefere abreviações ou palavras completas?"
+    },
+    "emoji": {
+      "titleSimple": "Deseja ativar o modo emoji?",
+      "titleHard": "Deseja tradução para emoji?"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Right Me",
+  "yes": "Ja",
+  "no": "Nein",
+  "options": {
+    "settings": {
+      "title": "Möchten Sie die Optionen im Rechtsklick-Menü?"
+    },
+    "ai": {
+      "platform": "Was ist Ihre KI-Plattform?",
+      "model": "Welches Modell verwenden Sie?",
+      "selectPlatform": "Plattform auswählen",
+      "selectModel": "Modell auswählen",
+      "apiKey": "Wie lautet Ihr API-Schlüssel?",
+      "getApiKey": "API-Schlüssel anfordern",
+      "inputApiKey": "API-SCHLÜSSEL ERFORDERLICH, KLICKEN Sie auf API-Schlüssel anfordern",
+      "seeMore": "Mehr sehen",
+      "platforms": {
+        "google": "Google",
+        "openai": "OpenAI"
+      }
+    },
+    "language": {
+      "firstLanguage": "Hauptsprache",
+      "secondLanguage": "Zweitsprache",
+      "selectLanguage": "Sprache auswählen",
+      "list": {
+        "french": "Französisch",
+        "english": "Englisch",
+        "spanish": "Spanisch",
+        "german": "Deutsch",
+        "italian": "Italienisch",
+        "portuguese": "Portugiesisch",
+        "russian": "Russisch",
+        "chinese": "Chinesisch"
+      }
+    },
+    "abrv": {
+      "yes": "Abkürzungen",
+      "no": "Einfache Wörter",
+      "idk": "Ich weiß es nicht",
+      "title": "Bevorzugen Sie Abkürzungen oder einfache Wörter?"
+    },
+    "emoji": {
+      "titleSimple": "Möchten Sie den Emoji-Modus aktivieren?",
+      "titleHard": "Möchten Sie die Übersetzung in Emojis?"
+    }
+  }
+}

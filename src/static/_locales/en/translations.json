@@ -1,0 +1,49 @@
+{
+  "name": "Right Me",
+  "yes": "Yes",
+  "no": "No",
+  "options": {
+    "settings": {
+      "title": "Do you want the options in right click menu ?"
+    },
+    "ai": {
+      "platform": "What is your AI platform ?",
+      "model": "What is your model ?",
+      "selectPlatform": "Select a platform",
+      "selectModel": "Select a model",
+      "apiKey": "What is your API key ?",
+      "getApiKey": "get an API key",
+      "inputApiKey": "API KEY REQUIRED, CLICK on get an API key",
+      "seeMore": "See more",
+      "platforms": {
+        "google": "Google",
+        "openai": "OpenAI"
+      }
+    },
+    "language": {
+      "firstLanguage": "Main Language",
+      "secondLanguage": "Second Language",
+      "selectLanguage": "Select a language",
+      "list": {
+        "french": "French",
+        "english": "English",
+        "spanish": "Spanish",
+        "german": "German",
+        "italian": "Italian",
+        "portuguese": "Portuguese",
+        "russian": "Russian",
+        "chinese": "Chinese"
+      }
+    },
+    "abrv": {
+      "yes": "Abbreviations",
+      "no": "Plain words",
+      "idk": "I don't know",
+      "title": "Do you prefere abbreviations or plain words ?"
+    },
+    "emoji": {
+      "titleSimple": "Do you want to activate the emoji mode ?",
+      "titleHard": "Do you want translation to emoji ?"
+    }
+  }
+}

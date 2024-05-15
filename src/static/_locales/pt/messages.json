@@ -1,0 +1,23 @@
+{
+  "correctText": {
+    "message": "Corrigir texto"
+  },
+  "rephraseText": {
+    "message": "Reformular texto"
+  },
+  "settings": {
+    "message": "Configurações"
+  },
+  "emojiSimple": {
+    "message": "Corrigir texto com emoji"
+  },
+  "emojiHard": {
+    "message": "Traduzir para emoji"
+  },
+  "notificationApiKeyTitle": {
+    "message": "Erro: Chave API ausente"
+  },
+  "notificationApiKeyMessage": {
+    "message": "Por favor, defina uma chave API nas configurações."
+  }
+}

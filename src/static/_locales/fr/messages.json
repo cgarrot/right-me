@@ -1,0 +1,23 @@
+{
+  "correctText": {
+    "message": "Corriger le texte"
+  },
+  "rephraseText": {
+    "message": "Reformuler le texte"
+  },
+  "settings": {
+    "message": "Paramètres"
+  },
+  "emojiSimple": {
+    "message": "Texte correct avec emoji"
+  },
+  "emojiHard": {
+    "message": "Traduire en emoji"
+  },
+  "notificationApiKeyTitle": {
+    "message": "Erreur : Clé API manquante"
+  },
+  "notificationApiKeyMessage": {
+    "message": "Veuillez définir une clé API dans les paramètres."
+  }
+}

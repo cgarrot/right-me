@@ -1,0 +1,49 @@
+{
+  "name": "Right Me",
+  "yes": "是",
+  "no": "否",
+  "options": {
+    "settings": {
+      "title": "您希望在右键菜单中显示选项吗？"
+    },
+    "ai": {
+      "platform": "您的 AI 平台是什么？",
+      "model": "您的模型是什么？",
+      "selectPlatform": "选择一个平台",
+      "selectModel": "选择一个模型",
+      "apiKey": "您的 API 密钥是什么？",
+      "getApiKey": "获取 API 密钥",
+      "inputApiKey": "需要 API 密钥，请单击获取 API 密钥",
+      "seeMore": "查看更多",
+      "platforms": {
+        "google": "谷歌",
+        "openai": "OpenAI"
+      }
+    },
+    "language": {
+      "firstLanguage": "主要语言",
+      "secondLanguage": "第二语言",
+      "selectLanguage": "选择一种语言",
+      "list": {
+        "french": "法语",
+        "english": "英语",
+        "spanish": "西班牙语",
+        "german": "德语",
+        "italian": "意大利语",
+        "portuguese": "葡萄牙语",
+        "russian": "俄语",
+        "chinese": "中文"
+      }
+    },
+    "abrv": {
+      "yes": "缩写",
+      "no": "完整单词",
+      "idk": "我不知道",
+      "title": "您喜欢缩写还是完整单词？"
+    },
+    "emoji": {
+      "titleSimple": "您想激活表情符号模式吗？",
+      "titleHard": "您希望翻译成表情符号吗？"
+    }
+  }
+}

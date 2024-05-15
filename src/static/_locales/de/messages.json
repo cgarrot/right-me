@@ -1,0 +1,23 @@
+{
+  "correctText": {
+    "message": "Text korrigieren"
+  },
+  "rephraseText": {
+    "message": "Text umformulieren"
+  },
+  "settings": {
+    "message": "Einstellungen"
+  },
+  "emojiSimple": {
+    "message": "Text mit Emoji korrigieren"
+  },
+  "emojiHard": {
+    "message": "In Emoji übersetzen"
+  },
+  "notificationApiKeyTitle": {
+    "message": "Fehler: API-Schlüssel fehlt"
+  },
+  "notificationApiKeyMessage": {
+    "message": "Bitte legen Sie einen API-Schlüssel in den Einstellungen fest."
+  }
+}

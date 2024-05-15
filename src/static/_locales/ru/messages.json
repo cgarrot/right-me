@@ -1,0 +1,23 @@
+{
+  "correctText": {
+    "message": "Исправить текст"
+  },
+  "rephraseText": {
+    "message": "Перефразировать текст"
+  },
+  "settings": {
+    "message": "Настройки"
+  },
+  "emojiSimple": {
+    "message": "Исправить текст с эмодзи"
+  },
+  "emojiHard": {
+    "message": "Перевести в эмодзи"
+  },
+  "notificationApiKeyTitle": {
+    "message": "Ошибка: Отсутствует API ключ"
+  },
+  "notificationApiKeyMessage": {
+    "message": "Пожалуйста, установите API ключ в настройках."
+  }
+}

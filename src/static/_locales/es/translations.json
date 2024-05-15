@@ -1,0 +1,49 @@
+{
+  "name": "Corrígeme",
+  "yes": "Sí",
+  "no": "No",
+  "options": {
+    "settings": {
+      "title": "¿Deseas las opciones en el menú de clic derecho?"
+    },
+    "ai": {
+      "platform": "¿Cuál es tu plataforma de IA?",
+      "model": "¿Cuál es tu modelo?",
+      "selectPlatform": "Selecciona una plataforma",
+      "selectModel": "Selecciona un modelo",
+      "apiKey": "¿Cuál es tu clave API?",
+      "getApiKey": "obtener una clave API",
+      "inputApiKey": "CLAVE API REQUERIDA, HAZ CLIC en obtener una clave API",
+      "seeMore": "Ver más",
+      "platforms": {
+        "google": "Google",
+        "openai": "OpenAI"
+      }
+    },
+    "language": {
+      "firstLanguage": "Idioma Principal",
+      "secondLanguage": "Segundo Idioma",
+      "selectLanguage": "Selecciona un idioma",
+      "list": {
+        "french": "Francés",
+        "english": "Inglés",
+        "spanish": "Español",
+        "german": "Alemán",
+        "italian": "Italiano",
+        "portuguese": "Portugués",
+        "russian": "Ruso",
+        "chinese": "Chino"
+      }
+    },
+    "abrv": {
+      "yes": "Abreviaturas",
+      "no": "Palabras completas",
+      "idk": "No lo sé",
+      "title": "¿Prefieres abreviaturas o palabras completas?"
+    },
+    "emoji": {
+      "titleSimple": "¿Deseas activar el modo emoji?",
+      "titleHard": "¿Quieres traducción a emoji?"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "correctText": {
+    "message": "Correct text"
+  },
+  "rephraseText": {
+    "message": "Rephrase text"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "emojiSimple": {
+    "message": "Correct text with emoji"
+  },
+  "emojiHard": {
+    "message": "Translate to emoji"
+  },
+  "notificationApiKeyTitle": {
+    "message": "Error: Missing API key"
+  },
+  "notificationApiKeyMessage": {
+    "message": "Please set an API key in settings."
+  }
+}

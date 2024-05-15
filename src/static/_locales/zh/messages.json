@@ -1,0 +1,23 @@
+{
+  "correctText": {
+    "message": "更正文本"
+  },
+  "rephraseText": {
+    "message": "改写文本"
+  },
+  "settings": {
+    "message": "设置"
+  },
+  "emojiSimple": {
+    "message": "使用表情符号更正文本"
+  },
+  "emojiHard": {
+    "message": "翻译为表情符号"
+  },
+  "notificationApiKeyTitle": {
+    "message": "错误：缺少 API 密钥"
+  },
+  "notificationApiKeyMessage": {
+    "message": "请在设置中设置 API 密钥。"
+  }
+}

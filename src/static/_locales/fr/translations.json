@@ -1,0 +1,49 @@
+{
+  "name": "Corrige-moi",
+  "yes": "Oui",
+  "no": "Non",
+  "options": {
+    "settings": {
+      "title": "Voulez-vous les options dans le menu contextuel (clic droit)?"
+    },
+    "ai": {
+      "platform": "Quelle est votre plateforme d'IA ?",
+      "model": "Quel est votre modèle ?",
+      "selectPlatform": "Sélectionnez une plateforme",
+      "selectModel": "Sélectionnez un modèle",
+      "apiKey": "Quelle est votre clé API ?",
+      "getApiKey": "obtenir une clé API",
+      "inputApiKey": "CLÉ API REQUISE, CLIQUEZ sur obtenir une clé API",
+      "seeMore": "Voir plus",
+      "platforms": {
+        "google": "Google",
+        "openai": "OpenAI"
+      }
+    },
+    "language": {
+      "firstLanguage": "Langue principale",
+      "secondLanguage": "Langue secondaire",
+      "selectLanguage": "Sélectionnez une langue",
+      "list": {
+        "french": "Français",
+        "english": "Anglais",
+        "spanish": "Espagnol",
+        "german": "Allemand",
+        "italian": "Italien",
+        "portuguese": "Portugais",
+        "russian": "Russe",
+        "chinese": "Chinois"
+      }
+    },
+    "abrv": {
+      "yes": "Abréviations",
+      "no": "Mots complets",
+      "idk": "Je ne sais pas",
+      "title": "Préférez-vous les abréviations ou les mots simples ?"
+    },
+    "emoji": {
+      "titleSimple": "Voulez-vous activer le mode emoji ?",
+      "titleHard": "Voulez-vous la traduction en emoji ?"
+    }
+  }
+}
