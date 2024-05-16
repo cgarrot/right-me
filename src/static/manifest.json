@@ -8,11 +8,9 @@
     "default_icon": "icon.png"
   },
   "permissions": [
-    "tabs",
     "storage",
     "contextMenus",
     "activeTab",
-    "scripting",
     "notifications",
     "background"
   ],
